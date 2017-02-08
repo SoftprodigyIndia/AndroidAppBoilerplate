@@ -128,5 +128,5 @@ Unless required by applicable law or agreed to in writing, software distributed 
 #Author
 
 Soft Prodigy System Solutions Pvt. Ltd.
-Trust | Integrity |Customer Delight | Timely Delivery |Quality
+Trust | Integrity | Customer Delight | Timely Delivery | Quality
 Visit us at: www.softprodigy.com
